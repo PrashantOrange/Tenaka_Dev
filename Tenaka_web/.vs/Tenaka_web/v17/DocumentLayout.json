@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SHASHI_TIWARI_BKP\\SHASHI\\PROJECT\\TENAKA\\CORE_Project\\TENAKA_PROJ\\Tenaka_web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A3D79-FDDE-4F86-9AD5-DD754014298B}|..\\Tenaka_API\\Tenaka_API.csproj|c:\\shashi_tiwari_bkp\\shashi\\project\\tenaka\\core_project\\tenaka_proj\\tenaka_api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A3D79-FDDE-4F86-9AD5-DD754014298B}|..\\Tenaka_API\\Tenaka_API.csproj|c:\\shashi_tiwari_bkp\\shashi\\project\\tenaka\\core_project\\tenaka_proj\\tenaka_api\\model\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A3D79-FDDE-4F86-9AD5-DD754014298B}|..\\Tenaka_API\\Tenaka_API.csproj|c:\\shashi_tiwari_bkp\\shashi\\project\\tenaka\\core_project\\tenaka_proj\\tenaka_api\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A3D79-FDDE-4F86-9AD5-DD754014298B}|..\\Tenaka_API\\Tenaka_API.csproj|c:\\shashi_tiwari_bkp\\shashi\\project\\tenaka\\core_project\\tenaka_proj\\tenaka_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A3D79-FDDE-4F86-9AD5-DD754014298B}|..\\Tenaka_API\\Tenaka_API.csproj|c:\\shashi_tiwari_bkp\\shashi\\project\\tenaka\\core_project\\tenaka_proj\\tenaka_api\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A3D79-FDDE-4F86-9AD5-DD754014298B}|..\\Tenaka_API\\Tenaka_API.csproj|c:\\shashi_tiwari_bkp\\shashi\\project\\tenaka\\core_project\\tenaka_proj\\tenaka_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A3D79-FDDE-4F86-9AD5-DD754014298B}|..\\Tenaka_API\\Tenaka_API.csproj|c:\\shashi_tiwari_bkp\\shashi\\project\\tenaka\\core_project\\tenaka_proj\\tenaka_api\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A3D79-FDDE-4F86-9AD5-DD754014298B}|..\\Tenaka_API\\Tenaka_API.csproj|c:\\shashi_tiwari_bkp\\shashi\\project\\tenaka\\core_project\\tenaka_proj\\tenaka_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0A3D79-FDDE-4F86-9AD5-DD754014298B}|..\\Tenaka_API\\Tenaka_API.csproj|c:\\shashi_tiwari_bkp\\shashi\\project\\tenaka\\core_project\\tenaka_proj\\tenaka_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Common.cs",
+              "DocumentMoniker": "C:\\SHASHI_TIWARI_BKP\\SHASHI\\PROJECT\\TENAKA\\CORE_Project\\TENAKA_PROJ\\Tenaka_API\\Model\\Common.cs",
+              "RelativeDocumentMoniker": "..\\Tenaka_API\\Model\\Common.cs",
+              "ToolTip": "C:\\SHASHI_TIWARI_BKP\\SHASHI\\PROJECT\\TENAKA\\CORE_Project\\TENAKA_PROJ\\Tenaka_API\\Model\\Common.cs",
+              "RelativeToolTip": "..\\Tenaka_API\\Model\\Common.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:15:43.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\SHASHI_TIWARI_BKP\\SHASHI\\PROJECT\\TENAKA\\CORE_Project\\TENAKA_PROJ\\Tenaka_API\\Model\\LoginModel.cs",
+              "RelativeDocumentMoniker": "..\\Tenaka_API\\Model\\LoginModel.cs",
+              "ToolTip": "C:\\SHASHI_TIWARI_BKP\\SHASHI\\PROJECT\\TENAKA\\CORE_Project\\TENAKA_PROJ\\Tenaka_API\\Model\\LoginModel.cs",
+              "RelativeToolTip": "..\\Tenaka_API\\Model\\LoginModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvwoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:40:15.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\SHASHI_TIWARI_BKP\\SHASHI\\PROJECT\\TENAKA\\CORE_Project\\TENAKA_PROJ\\Tenaka_API\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "..\\Tenaka_API\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\SHASHI_TIWARI_BKP\\SHASHI\\PROJECT\\TENAKA\\CORE_Project\\TENAKA_PROJ\\Tenaka_API\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "..\\Tenaka_API\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAwCsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:50:23.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\SHASHI_TIWARI_BKP\\SHASHI\\PROJECT\\TENAKA\\CORE_Project\\TENAKA_PROJ\\Tenaka_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "..\\Tenaka_API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\SHASHI_TIWARI_BKP\\SHASHI\\PROJECT\\TENAKA\\CORE_Project\\TENAKA_PROJ\\Tenaka_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "..\\Tenaka_API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:49:16.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\SHASHI_TIWARI_BKP\\SHASHI\\PROJECT\\TENAKA\\CORE_Project\\TENAKA_PROJ\\Tenaka_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\Tenaka_API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\SHASHI_TIWARI_BKP\\SHASHI\\PROJECT\\TENAKA\\CORE_Project\\TENAKA_PROJ\\Tenaka_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\Tenaka_API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T13:48:04.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SHASHI_TIWARI_BKP\\SHASHI\\PROJECT\\TENAKA\\CORE_Project\\TENAKA_PROJ\\Tenaka_API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Tenaka_API\\Program.cs",
+              "ToolTip": "C:\\SHASHI_TIWARI_BKP\\SHASHI\\PROJECT\\TENAKA\\CORE_Project\\TENAKA_PROJ\\Tenaka_API\\Program.cs",
+              "RelativeToolTip": "..\\Tenaka_API\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAjwA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:07:46.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\SHASHI_TIWARI_BKP\\SHASHI\\PROJECT\\TENAKA\\CORE_Project\\TENAKA_PROJ\\Tenaka_API\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Tenaka_API\\appsettings.json",
+              "ToolTip": "C:\\SHASHI_TIWARI_BKP\\SHASHI\\PROJECT\\TENAKA\\CORE_Project\\TENAKA_PROJ\\Tenaka_API\\appsettings.json",
+              "RelativeToolTip": "..\\Tenaka_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T12:59:49.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "user.cs",
+              "DocumentMoniker": "C:\\SHASHI_TIWARI_BKP\\SHASHI\\PROJECT\\TENAKA\\CORE_Project\\TENAKA_PROJ\\Tenaka_API\\Model\\user.cs",
+              "RelativeDocumentMoniker": "..\\Tenaka_API\\Model\\user.cs",
+              "ToolTip": "C:\\SHASHI_TIWARI_BKP\\SHASHI\\PROJECT\\TENAKA\\CORE_Project\\TENAKA_PROJ\\Tenaka_API\\Model\\user.cs",
+              "RelativeToolTip": "..\\Tenaka_API\\Model\\user.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:58:22.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\SHASHI_TIWARI_BKP\\SHASHI\\PROJECT\\TENAKA\\CORE_Project\\TENAKA_PROJ\\Tenaka_API\\DBContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Tenaka_API\\DBContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\SHASHI_TIWARI_BKP\\SHASHI\\PROJECT\\TENAKA\\CORE_Project\\TENAKA_PROJ\\Tenaka_API\\DBContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\Tenaka_API\\DBContext\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:57:14.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

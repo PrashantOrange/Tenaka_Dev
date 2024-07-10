@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\SHASHI_TIWARI_BKP\\SHASHI\\PROJECT\\TENAKA\\CORE_Project\\TENAKA_PROJ\\Tenaka_web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Tenaka_web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Tenaka_web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\SHASHI_TIWARI_BKP\\SHASHI\\PROJECT\\TENAKA\\CORE_Project\\TENAKA_PROJ\\Tenaka_web\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\SHASHI_TIWARI_BKP\\SHASHI\\PROJECT\\TENAKA\\CORE_Project\\TENAKA_PROJ\\Tenaka_web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\SHASHI_TIWARI_BKP\\SHASHI\\PROJECT\\TENAKA\\CORE_Project\\TENAKA_PROJ\\Tenaka_web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\SHASHI_TIWARI_BKP\\SHASHI\\PROJECT\\TENAKA\\CORE_Project\\TENAKA_PROJ\\Tenaka_web\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Tenaka_web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Tenaka_web.props",
+      "PackagePath": "build\\Tenaka_web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Tenaka_web.props",
+      "PackagePath": "buildMultiTargeting\\Tenaka_web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Tenaka_web.props",
+      "PackagePath": "buildTransitive\\Tenaka_web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

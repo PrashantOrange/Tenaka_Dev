@@ -1,0 +1,7 @@
+﻿@page
+@using Tenaka_Core.Data
+@inject AuthService AuthService
+@model Tenaka_Core.Pages.Dashboard.DashboardModel
+@{
+    <div>User : @AuthService._username</div>
+}

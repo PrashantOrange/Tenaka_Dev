@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tenaka_API.props" />
+</Project>
